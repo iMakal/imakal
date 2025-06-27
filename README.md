@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/864d22ae-d858-4536-9ad3-a91d2b872dc7)## Boas, sou o Miguel 👋
+## Boas, sou o Miguel 👋
 # Jogo os piores jogos de sempre, faço funcionalidades horrivéis para cegos
 
 # Eu quando o código que fiz
