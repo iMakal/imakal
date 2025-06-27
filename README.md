@@ -1,9 +1,9 @@
-## Boas, sou o Miguel 👋
-# Jogo os piores jogos de sempre, faço funcionalidades horrivéis para cegos
+# Boas, sou o Miguel 👋
+## Jogo os piores jogos de sempre, faço funcionalidades horrivéis para cegos
 
-# Eu quando o código que fiz
+Eu quando o código que fiz
 ![0c0X9rO](https://github.com/user-attachments/assets/31d34cc2-da22-4670-9c4d-680659f6d8fc)
-# não funciona 
+não funciona 
 
 <!--
 **iMakal/imakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
